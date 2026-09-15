@@ -8,7 +8,7 @@ cask "lumaring" do
   homepage "https://github.com/potatoQi/LumaRing"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "LumaRing.app"
 end
