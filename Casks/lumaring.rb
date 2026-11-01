@@ -1,6 +1,6 @@
 cask "lumaring" do
-  version "0.1.7"
-  sha256 "c9469b27e42baef81d52c5427e16ae27b0b66581ab8a29b2276d10a380fb7aba"
+  version "0.1.8"
+  sha256 "d38c53495a7ca2733c975df2e57ae7b4493b64d2e19ca1e82b7527ba01edb011"
 
   url "https://github.com/potatoQi/LumaRing/releases/download/v#{version}/LumaRing-#{version}-macOS.dmg"
   name "LumaRing"
